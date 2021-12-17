@@ -1,0 +1,577 @@
+ARCHETYPE
+	enchantress:1393
+	hag:1771
+	mage:1728
+	necromancer:1590
+	occultist:1843
+	seer:1419
+------------------
+
+ASTROLOGICAL CHART/Sun Sign:
+	Taurus:807
+	Capricorn:758
+	Scorpio:856
+	Aquarius:830
+	Virgo:873
+	Leo:862
+	Sagittarius:793
+	Gemini:814
+	Aries:807
+	Cancer:804
+	Pisces:761
+	Libra:784
+
+ASTROLOGICAL CHART/Moon Sign:
+	Aquarius:793
+	Capricorn:847
+	Gemini:813
+	Sagittarius:841
+	Cancer:857
+	Leo:789
+	Taurus:836
+	Aries:779
+	Scorpio:825
+	Libra:854
+	Pisces:738
+	Virgo:777
+
+ASTROLOGICAL CHART/Rising Sign:
+	Capricorn:785
+	Leo:839
+	Aquarius:795
+	Scorpio:823
+	Gemini:791
+	Taurus:817
+	Pisces:800
+	Sagittarius:825
+	Aries:797
+	Virgo:816
+	Cancer:811
+	Libra:850
+------------------
+
+Properties/Background:
+	Sepia:2
+	Sage:1
+	Dusty Rose:1
+	Plum:1442
+	Pink:1635
+	Taupe:1274
+	Rust:790
+	Peach:955
+	Sea:1235
+	Moss:1040
+	Lavender:1347
+	Solid (Pink):3
+	Solid (Rust):7
+	Solid (Lavender):5
+	Solid (Taupe):3
+	Solid (Moss):3
+	Solid (Peach):4
+	Solid (Plum):2
+
+Properties/Skin Tone:
+	Dawn:1504
+	Twilight:1577
+	Dusk:1301
+	Day:1443
+	Midnight:1219
+	Night:1330
+	Sunset:1375
+
+Properties/Body Shape:
+	Lithe:3802
+	Soft:2738
+	Chiseled:3209
+
+Properties/Top:
+	Sheer Top (Black):170
+	Mock Neck (Black):596
+	Wispy Robe (Cinnamon):1
+	Off Shoulder (Black):295
+	Open Collar with Bow (Black):263
+	Mugler Tailored (Black):225
+	Sheer Sleeves (Black):353
+	Striped Shroud (Umber):549
+	Mugler Tailored (White):221
+	Shroud (Lilac):349
+	Mugler Slashed (Black):200
+	Straps (Black):844
+	Leather Neck Piece (Black):326
+	Ragged Shawl (Black):496
+	Sheer Striped (Black):512
+	Open Collar with Bow (White):274
+	Vivetta Hand Collar (Red):147
+	Mugler Collarbone Cutout (Black):642
+	Shredded Top (Black):308
+	Filmy Edwardian (White):205
+	Moon Bow (Red):25
+	Pearl Shawl:103
+	Vivetta Ghost Hand Collar (Black):239
+	Poet (White):207
+	Open Collar (Black):1
+	Open Collar with Flowers (White):49
+	Victorian Frippery (White):99
+	Romantic Puff (White):125
+	Wide Collared Shirt (White):98
+	Fluffy Shroud (White):268
+	Shroud (Dusty Rose):232
+	Shroud (Wisteria):180
+	Peter Pan (White):211
+	Shirt with Tie (White):25
+	Moon Bow (Green):26
+	Shroud (Sage):168
+	Shroud (Dusk):318
+	Strappy Crochet Top:53
+	Feathered Cloak (Phoenix):42
+	Feathered Cloak (Red):67
+	Moon Bow (Blue):33
+	Lined Romantic Puff (White):31
+	Feathered Cloak (Gold):57
+	Shredded Top (White):122
+
+Properties/Eyebrows:
+	Medium Flat (Black):1195
+	Round (Navy):1137
+	Bushy (White):1169
+	Arched (Brown):1172
+	Strong (Black):1244
+	Thin Arched (Grey):1206
+	Pencil (White):1087
+	Bushy (Brown):1242
+	Fluffy (White):1
+	Pierced Pyramid Stud (Grey):82
+	Pierced (White):87
+
+Properties/Eye Style:
+	Nyx:1
+	Aletheia:1
+	Xuannu:1
+	Aradia:1
+	Keridwen:1
+	Circle Lens:1909
+	Sunset Almond:1184
+	Reverse Cateye:377
+	Hooded Side:1461
+	Blank:299
+	Smudged:539
+	Babylash:1165
+	Smudged Monolid:224
+	Alert:612
+	Hypnotic:326
+	Clear Graphic:191
+	Shadowed:104
+	Smudged Snake:713
+	Demon:85
+	Sclera:190
+	The Stalk Lined:40
+	Liquid Metal Lined:14
+	Inscribed Demon Bloom:34
+	The Stalk:53
+	Demon Bloom:45
+	Liquid Metal:65
+	Darkened Demon Bloom:114
+
+Properties/Eye Color:
+	Cloud:1
+	Aquamarine:1
+	Garnet:1
+	Amethyst:1
+	Hazel:304
+	Pink:1053
+	Red:828
+	Opal:139
+	Gold:1101
+	Bicolor Pink Turquoise:232
+	Black:93
+	Lilac:266
+	Green:819
+	Glo:941
+	Blue:211
+	Purple:416
+	Grey:1304
+	Bicolor Blue Gold:233
+	Grey Green:297
+	White:66
+	Violet:306
+	Amber:335
+	Carnelian:301
+	Aqua:173
+	Flooded Glo:17
+	Void Black:53
+	Brown:45
+	Bronze:65
+	Emerald:33
+	Flooded Gold:18
+	Ruby:43
+	Silver:10
+	Flooded Cobalt:14
+	Flooded Aqua:20
+	Flooded Red:9
+
+Properties/Mouth:
+	Nyx (Mocha):1
+	Aletheia (Mauve):1
+	Xuannu (Cinnamon):1
+	Aradia (Rose Gold):1
+	Keridwen (Umber):1
+	Round (Dark):707
+	Parted (Beige):861
+	Glossy Medusa (Natural):478
+	Parted (Black):830
+	Bow (Dusk):515
+	Thin Smirk (Orange):189
+	Pursed (Natural):227
+	Plump (Natural):782
+	Medusa (Natural):196
+	Dark Gloss (Dark):478
+	Pursed (Red):221
+	Bow (Red):765
+	Full Pout (Beige):262
+	Steady Pout:297
+	Witchy Pout (Black):527
+	Thin Smirk:280
+	Bow (Purple):762
+	Plump (Black):214
+	Round (Red):339
+	Bow (Brown):217
+	Bow (Coral):566
+	Punks Cig (Natural):31
+
+Properties/Hair (Front):
+	Nyx:425
+	Aletheia:1179
+	Xuannu:1474
+	Aradia:656
+	Keridwen:466
+	Curtain:811
+	Curl Cloud:732
+	Bald:196
+	High Pony:223
+	Pixie:109
+	Hair Wrap:75
+	Jeweled Turban:52
+	Drill Curls:383
+	Aradia Short:1208
+	Dramatic Swoop:425
+	Box Braids:274
+	Miranda Priestly:127
+	Cloudy Skies:31
+	Gelled Baby Hair:204
+	Jeweled Hood:54
+	Sheer Pearl Veil:55
+	Jeweled Hood Covered:54
+	Baby Drill Curls:546
+
+Properties/Hair (Back):
+	Nyx Long:247
+	Aletheia:321
+	Xuannu:227
+	Aradia:885
+	Keridwen:513
+	Curl Cloud:300
+	Cute Pigtails:287
+	Soft Braid:1110
+	Dramatic Swoop:425
+	Flowy Pony:833
+	Box Braid Pony:51
+	Bubble Braids:160
+	Cloudy Skies:31
+	Wolf:183
+	Flowing Pigtails:172
+	Jeweled Hood:108
+	Calm Pigtails:235
+	Sheer Pearl Veil:55
+	Double Locs:58
+	High Blowout:373
+	Soft Waves:269
+	Miranda Priestly:15
+	Low Pony:159
+	Puffy Buns:36
+	Drill Cloud:161
+
+Properties/Hair Color:
+	Steel:868
+	Mauve:688
+	Navy:666
+	Silver:897
+	Auburn:766
+	Lavender:730
+	Ash:768
+	Platinum:809
+	Pink:613
+	Warm Brown:56
+	Black:553
+	Emerald:74
+	Iridescent:55
+	Lilac:755
+	Mermaid:771
+	Cyan:9
+	Desert:30
+	Blue:18
+	Ochre:13
+	Plum:37
+	Glo:221
+	Purple:27
+	White:16
+	Green:14
+	Marine:26
+	Saffron:24
+	Ethereum:19
+	Mint:28
+	Periwinkle:12
+
+Properties/Hat:
+	Witch (Black):2
+	Dita Disk (Black):70
+	Hoodlondon Hathor (Gold):266
+	Witch:1154
+	Lined (Black):249
+	Young Floral Horns:80
+	Chic Disk (Black):92
+	Mushroom:100
+	Floral Lacewing:90
+	Arcane Stars (Black):100
+	Valkyrie Dark:28
+	Moon Moth (Black):75
+	Proper Witch:45
+	Straw Circle:53
+	Valkyrie Light (White):23
+	Structured Flowers (Black):20
+	Dita Disk with Poppies:52
+	Twin Snakes:34
+	Vogue Witch:25
+	Sheer Moon Xuannu Veil (Purple):14
+	Many Eyed Hat:41
+	Rounded Lady:27
+	Sheer Moon Nyx Veil (Purple):19
+
+Properties/Necklace:
+	Moon Necklace (Silver):326
+	Leather Wrap (Brown):1
+	Natural Dried Orange Stack (Natural):89
+	Thread Necklace (Natural):157
+	Piercing Choker (Blue):28
+	Studded Collar (Silver):314
+	Ethereum Thread (Natural):132
+	Creepy Yeha Pearls (Pearl):274
+	Chaotic Howl Stack (Eclectic):55
+	Piercing Choker (Green):39
+	Metal Collar (Silver):147
+	Ring Collar (Silver):39
+	Pearl Set (Pearl):63
+	Eclectic Choker Stack (Green):97
+	Eclectic Choker Stack (Red):90
+	Stars Thread (Natural):82
+	Eclectic Choker Stack (Blue):79
+	Sacred Cipher:1
+	Moon Choker (Silver):131
+	Piercing Choker (Red):38
+	Eclectic Choker Stack (Purple):66
+	Piercing Choker (Pink):25
+	Piercing Choker (Purple):40
+
+Properties/Archetype of Power:
+	Witch of Woe:1
+	Witch of Wisdom:1
+	Witch of Will:1
+	Witch of Wonder:1
+	Witch of Wit:1
+	Necromancer:1590
+	Seer:1419
+	Hag:1771
+	Occultist:1843
+	Mage:1728
+	Enchantress:1393
+
+Properties/Face Markings:
+	Cheekbone Mole:1
+	Aradia (Henna):1
+	Freckles:393
+	Eye of Hinoto:65
+	Mage Script Demonic (Green):22
+	Mark of the Chained Moon (White):54
+	Cheek and Chin Mole:359
+	Nose Bridge Scar:381
+	Daedra:50
+	Mage Script Melovesmealot (Gold):25
+	Cheek Mole:406
+	Mark of the Mantis:43
+	Moon Mark (White):55
+	Undereye Gems (White):217
+	Mage Script Woods (Gold):15
+	Star Mark (White):48
+	Mark of Air (White):44
+	Mage Script Helm (Purple):18
+	Horned Moon Markings (Purple):30
+	Mark of Earth (White):41
+	Mage Script Serpent (Blue):13
+	Mangekyō Markings (Black):43
+	Mage Script Serpent (Phosphorescent):21
+	Mage Script Helm (Blue):3
+	Mark of Moon Tears (White):64
+	Mage Script Serpent:25
+	Mage Mark Moon (Blue):25
+	Mage Script Demonic (Aqua):10
+	Mage Script Demonic (Gold):18
+	Mage Script Daedric (Aqua):5
+	Mage Script Woods (Purple):20
+	Mage Script Geometric (Blue):22
+	Mage Script Demonic (Phosphorescent):18
+	Mage Script Melovesmealot (Purple):14
+	Mage Script Woods (Green):18
+	Mark of the Damned:51
+	Nega Moon Mark (Black):33
+	Claw Marked (Black):32
+	Horned Moon Markings (Blue):7
+	Horned Moon Markings (Black):58
+	Claw Marked (Red):26
+	Mage Script Helm (Green):19
+	Horned Moon Markings (Red):38
+	Mage Script Helm (Acqua):6
+	Mage Script Helm (Gold):17
+	Claw Marked (Purple):5
+	Claw Marked (Blue):12
+	Mage Script Daedric (Gold):10
+	Mage Script Serpent (Green):15
+	Mage Script Daedric:1
+	Mage Script Melovesmealot (Blue):23
+	Mark of Leon:4
+	Mark of the Wanderer:16
+	Mark of the Hierophant:5
+	Mage Script Woods (Blue):22
+	Mage Script Helm (Aqua):7
+	Mage Script Daedric (Green):8
+	Mage Script Melovesmealot (Green):18
+	Starry Blush (Pink):3
+	Mage Script Daedric (Blue):3
+
+Properties/Facewear:
+	Pearl Circlet (Garnet):1
+	Pearl Band (Amethyst):1
+	Jeweled Septum Ring (Blue):436
+	Sad Girl Tears:239
+	Labret (Silver):440
+	Scripted Octagon Glasses (Blue):71
+	Simple Septum Ring (Silver):435
+	Simple Octagon Glasses (Silver):208
+	Givenchy Nosering (Silver):88
+	Scripted Octagon Glasses (Purple):56
+	Septum Ring (Turquoise):451
+	Bridge Piercing:463
+	Givenchy Nosering (Gold):51
+	Swiss Dot Veil (Black):86
+	Eyepatch (Black):42
+	Mage Mark (Solidity Dragon Scales):1
+	Scripted Octagon Glasses (Green):64
+	Blindfold (Night):65
+	Pearl Veil:51
+	Mark of Tacolin (Silver):19
+	Eyepatch (Rose):74
+	Blindfold (Turmeric):20
+	Eyepatch (Blue):41
+	Blindfold (Royal):19
+	Blindfold (Indigo):22
+	Blindfold (Aquamarine):18
+	Blindfold (Maroon):17
+
+Properties/Hair Topper:
+	Hairpins:1
+	Jeweled Antlers:134
+	Star Circlet:1
+	Leafy Crown:121
+	Bat Wings:786
+	Crown of Pearls:324
+	Aries Horns:245
+	Maleficent Horns:267
+	Gentle Horns:237
+	Horns of Taurus:254
+	Anemone Horns:88
+	Feathered Hairpins:86
+
+Properties/Back Item:
+	Lily:1431
+	Chinese Lantern:1320
+	Scripted Mage Aura (Blue):108
+	Scripted Mage Aura (Gold):107
+	Mage Aura (Orange):94
+	Scripted Circle (Blue):116
+	Arcane Circuitry Halo:1
+	Scripted Mage Aura (Green):102
+	Monstera:1435
+	Scripted Mage Aura (Purple):113
+
+Properties/Earrings:
+	Pearly Skulls (Silver):137
+	Howl Gems (Green):59
+	Dangly Bones (Bone):226
+	Basic Piercings (Silver):1485
+	Howl Gems (Orange):90
+	Mandible Cuffs (Natural):56
+	Beaded Tassel (Emerald):91
+	Howl Gems (Purple):86
+	Bone Hoops (Silver):64
+	Ethereum Hoops (Silver):68
+	Bone Hoops (Gold):48
+	Beaded Tassel (Sapphire):73
+	Beaded Tassel (Ruby):95
+	Piercing Eye (Green):30
+	Piercing Eye (Purple):33
+	Fang Charm (Blue):38
+	Piercing Eye (Blue):43
+	Fang Charm (Red):62
+	Piercing Eye (Pink):34
+	Piercing Eye (Red):29
+
+Properties/Forehead Jewelry:
+	Raised Third Eye (Red):73
+	Simple Circlet (Silver):43
+	Ethereum Diadem (Silver):228
+	Demon Third Eye (Black):102
+	Raised Third Eye (Pink):67
+	Punks Tiara (Gold):58
+	Raised Third Eye (Purple):33
+	Darkened Demon Third Eye (Glo):74
+	Darkened Demon Third Eye (Ruby):80
+	Raised Third Eye (Gold):10
+	Radiant Third Eye (Red):6
+	Darkened Demon Third Eye (Opal):88
+	Darkened Demon Third Eye (Sapphire):82
+	Rope Third Eye (Green):20
+	Raised Third Eye (Green):31
+	Raised Third Eye (Blue):12
+	Ethereum Diadem (Gold):29
+	Rope Third Eye (Purple):27
+	Radiant Third Eye (Blue):10
+	Radiant Third Eye (Green):6
+	Rope Third Eye (Blue):11
+
+Properties/Hair (Middle):
+	Cute Buns:365
+	Double Locs:62
+	Dark Lady:376
+	Flower Buns:20
+
+Properties/Mask:
+	Butterfly (Gold):53
+	Butterfly (Rose Quartz):45
+	Butterfly (Emerald):45
+	Graceful Bat:65
+	Butterfly Glasses (Cyan):14
+	Moth Gauze (White):150
+	Butterfly Glasses (Pink):10
+	Gold Veil (Gold):24
+	Glowing Phosphorous Mask (Purple):34
+	Mage Glass Ribbon (Blue):12
+	Glowing Phosphorous Mask (Aqua):15
+	Mage Glass Moon (Purple):14
+	Mage Glass Moon (Blue):11
+	Mage Glass Ribbon (Purple):7
+
+Properties/Outerwear:
+	Feather Robe (White):273
+	Crochet (White):44
+	Feather Robe (Black):67
+	Bone Corset (White):85
+	School Uniform (Black):5
+	Bone Corset (Black):83
